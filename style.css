@@ -54,6 +54,7 @@ body {
 	width: 80%;
 	background: rgba(255, 255, 255, 0.8);
 	border-radius: 15px;
+	text-emphasis-color: rgba(129, 15, 15, 0.8);
 }
 
 .input_div_room_page {
